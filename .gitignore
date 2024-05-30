@@ -1,0 +1,10 @@
+__pycache__/
+build/
+Room_booker_GUI.spec
+GUI_modules.py
+Room_booker_GUI.py
+babel/
+build/
+hook-babel.py
+Room_booker_Function.py
+Room_booker_GUI.py
